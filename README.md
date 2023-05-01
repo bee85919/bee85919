@@ -1,4 +1,7 @@
-### Hi there 👋
+### this's bee 🙂
+
+I am learning AI. <br>
+I started learning programming last winter.
 
 <!--
 **bee85919/bee85919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
